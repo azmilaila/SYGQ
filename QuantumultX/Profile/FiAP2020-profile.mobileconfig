@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>cert.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			MIID9zCCAt+gAwIBAgIJAI3oiGh3QCdnMA0GCSqGSIb3DQEBCwUAMHgxCzAJ
+		BgNVBAYTAlZOMRQwEgYDVQQHDAtIbyBDaGkgTWluaDETMBEGA1UECgwKSUFQ
+		IFNFUlZFUjEkMCIGA1UEAwwbSUFQIFNFUlZFUiBDRVJUSUZJQ0FURSAyMDIx
+		MRgwFgYDVQQLDA9JQVAgU0VSVkVSIFRFQU0wHhcNMjEwNjAxMDgwMjE3WhcN
+		MjMwOTA0MDgwMjE3WjB4MQswCQYDVQQGEwJWTjEUMBIGA1UEBwwLSG8gQ2hp
+		IE1pbmgxEzARBgNVBAoMCklBUCBTRVJWRVIxJDAiBgNVBAMMG0lBUCBTRVJW
+		RVIgQ0VSVElGSUNBVEUgMjAyMTEYMBYGA1UECwwPSUFQIFNFUlZFUiBURUFN
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwwFfsaWFJp19NrQf
+		7SGfQTxAPtcjXF6VLpwujDdn2tFFWudqAwO4XACxGGVk90skzqWJVHikbIZa
+		hXXrXPCvqvgPpXLsgf82UfQZuKkINWleChjqQCmIgPoI2KpBHmMjKg3W7yLt
+		ti/y5wmBZjz26sevh40d7YXjHLG8EVncIXY877bLI3HKbwqBER55b1j770IQ
+		HpeJzFIEKyBfjkltOxIXWDo7f8xPx8X3lt9nOxDBzqqd7RV+nKQB/KvQ5747
+		7+ViYHU/y6azg2ZubeIdxOwu+WD/ks6nZ42Kw0xKyKvY5M7YV3qIoNm22DrQ
+		pfmFIu7nS8oHKEwsAjQxFTKHfQIDAQABo4GDMIGAMB0GA1UdDgQWBBQ1Og9S
+		HLK4QSBjIwDpDLLP2FCYKDAfBgNVHSMEGDAWgBQ1Og9SHLK4QSBjIwDpDLLP
+		2FCYKDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwICBDAdBgNVHSUE
+		FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDQYJKoZIhvcNAQELBQADggEBAEHk
+		6KPmwHTvoBJyoo8VgaH2BwaHr0aAGC9dKzcw/iv2FNr/b+own7QTxwnnjOYq
+		BgAOO3ElgYh4s9nJdTRks64eulLNXXhUgHX2ZHwEbrPrBQQembWhRHyl/cNp
+		QSeqdSL8kFYtU1HdqUN5Nm15UBjuGSa9dKnmIW0yqVh7944MCbJnb5L45i/9
+		ENF42nSFVqQvry8jHJX14Xj2moeUAMMeVxA48+liWoAe87//+xUIHGDghebT
+		AoAYPp2r2p3kq+KJ+szniu+ArMEMyZ7ew4swY1U+c3ShI0KrwonKAv3OVNXK
+		9QBS9TqP87cEMV4pSAvEWIIuUccQDPWhRb994nQ=
+
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>IAP SERVER CERTIFICATE 2021</string>
+			<key>PayloadIdentifier</key>
+			<string>701d962eab5de30f939c27b9c2f7df7ccc426164051aafb5d8b2820ae3598459a</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs1</string>
+			<key>PayloadUUID</key>
+			<string>1F5A8FBF-6FAF-4504-AD48-8EA4C3B728A5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile will be remove on 04/09/2023</string>
+	<key>PayloadDisplayName</key>
+	<string>IAP SERVER CERTIFICATE 2021</string>
+	<key>PayloadIdentifier</key>
+	<string>701d962eab5de30f939c27b9c2f7df7ccc426164051aafb5d8b2820ae3598459a</string>
+	<key>PayloadOrganization</key>
+	<string>FiAP Team</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>CertificateWrapper</string>
+	<key>PayloadUUID</key>
+	<string>1629CB4D-66D1-404A-A02B-5C79F276FF21</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2023-04-09T16:44:34Z</date>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+{
+  "server_remote": [
+    "https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/remote/fakeiap_server_200422.txt, tag=Fake iAP Server"
+  ],
+  "filter_remote": [
+    "https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/quantumult/fakeiap-filter.txt, tag=Fake iAP Filter"
+  ],
+  "rewrite_remote": [
+    "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN"
+  ]
+}
