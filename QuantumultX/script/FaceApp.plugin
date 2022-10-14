@@ -1,0 +1,8 @@
+#!name=FaceApp
+#!desc= Buka Kunci
+
+[Script]
+http-response ^https:\/\/api\.faceapp\.io(.*)\/api\/v.*\/auth\/user\/credentials script-path=https://raw.githubusercontent.com/azmilaila/SYGQ/master/QuantumultX/script/faceapp.js,requires-body=1,max-size=0
+
+[MITM]
+hostname = api.faceapp.io
